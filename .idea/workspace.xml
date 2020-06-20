@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2ce62c7-7a1d-42f3-a84d-f732e3c37dc3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bV9YqgDSZwcfNENMitosXYeres" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/POI-Music-Venues-master/test" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/POI-Music-Venues-master/node_modules/mocha" />
+  </component>
+  <component name="RunManager" selected="Mocha.All Tests">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/POI-Music-Venues-master/index.js" working-dir="$PROJECT_DIR$/POI-Music-Venues-master">
+      <method v="2" />
+    </configuration>
+    <configuration name="All Tests" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/POI-Music-Venues-master/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>tdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/POI-Music-Venues-master/test</test-directory>
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+    <configuration name="POI-Music-Venues-master/test/user-api-tests.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/POI-Music-Venues-master/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$/POI-Music-Venues-master</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>tdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/POI-Music-Venues-master/test/user-api-tests.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="User API tests.delete a user" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/POI-Music-Venues-master/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$/POI-Music-Venues-master</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>tdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/POI-Music-Venues-master/test/user-api-tests.js</test-file>
+      <test-names>
+        <name value="User API tests" />
+        <name value="delete a user" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="User API tests.get user" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/POI-Music-Venues-master/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$/POI-Music-Venues-master</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>tdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/POI-Music-Venues-master/test/user-api-tests.js</test-file>
+      <test-names>
+        <name value="User API tests" />
+        <name value="get user" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="User API tests.get users detail" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/POI-Music-Venues-master/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$/POI-Music-Venues-master</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>tdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/POI-Music-Venues-master/test/user-api-tests.js</test-file>
+      <test-names>
+        <name value="User API tests" />
+        <name value="get users detail" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.All Tests" />
+      <item itemvalue="Mocha.POI-Music-Venues-master/test/user-api-tests.js" />
+      <item itemvalue="Mocha.User API tests.get user" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Mocha.User API tests.get users detail" />
+      <item itemvalue="Mocha.User API tests.delete a user" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Mocha.User API tests.delete a user" />
+        <item itemvalue="Mocha.User API tests.get users detail" />
+        <item itemvalue="Mocha.POI-Music-Venues-master/test/user-api-tests.js" />
+        <item itemvalue="Mocha.User API tests.get user" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2ce62c7-7a1d-42f3-a84d-f732e3c37dc3" name="Default Changelist" comment="" />
+      <created>1588706443782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588706443782</updated>
+      <workItem from="1588706445194" duration="608000" />
+      <workItem from="1591630622082" duration="54000" />
+      <workItem from="1591771798004" duration="46000" />
+      <workItem from="1591783024433" duration="32750000" />
+      <workItem from="1592465335605" duration="11167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="754" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591788662986">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="754" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1591788662986" />
+    <state x="1079" y="319" width="424" height="491" key="FileChooserDialogImpl" timestamp="1591788657535">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1079" y="319" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1591788657535" />
+    <state width="1302" height="134" key="GridCell.Tab.0.bottom" timestamp="1592480160135">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1302" height="134" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1592480160135" />
+    <state width="1302" height="134" key="GridCell.Tab.0.center" timestamp="1592480160134">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1302" height="134" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1592480160134" />
+    <state width="1302" height="134" key="GridCell.Tab.0.left" timestamp="1592480160134">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1302" height="134" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1592480160134" />
+    <state width="1302" height="134" key="GridCell.Tab.0.right" timestamp="1592480160134">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1302" height="134" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1592480160134" />
+  </component>
+</project>

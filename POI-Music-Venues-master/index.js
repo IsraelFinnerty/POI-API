@@ -14,13 +14,13 @@ catch {
 }
 
 const fs = require('fs');
-const server = Hapi.server({
+/*const server = Hapi.server({
     port: 3443,
     tls: {
         key: fs.readFileSync('keys/private/webserver.key'),
         cert: fs.readFileSync('keys/webserver.crt')
     }
-});
+});*/
 
 
 /*const server = Hapi.server({
